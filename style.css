@@ -22,3 +22,51 @@ header {
   border-radius: 100%;
   margin: auto;
 }
+
+.main-content {
+  width: 583px;
+  height: 604px;
+  margin: 60px auto;
+  background-color: #d7f2ec;
+}
+
+.blog-des {
+  color: #326155;
+  font-size: 25px;
+  font-weight: 700;
+  margin-top: 25px;
+}
+
+.blog-p {
+  width: 503px;
+  margin-top: 25px;
+  color: #000;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.blog-btn {
+  width: 503px;
+  height: 49px;
+  margin-top: 35px;
+  background-color: #326155;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.blog-btn-des {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+}
+footer {
+  width: full;
+  height: 50px;
+  background-color: #326155;
+  text-align: center;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 10px;
+  align-items: center;
+}
